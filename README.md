@@ -1,4 +1,2 @@
-# my-awesome-project
-
-Section :
-J'ai réussi à faire clone, pull et je m'apprête à faire push
+achivements:
+'ai réussi à faire clone, pull et je m'apprête à faire push
